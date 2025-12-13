@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "なんもない",
+  "base_artist": "MAISONdes",
+  "createdAt": "2025-12-13T19:39:48.023408Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "なんもない (feat. 星街すいせい, sakuma.)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/01_なんもない_(feat._星街すいせい,_sakuma.)_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "なんもない (feat. 星街すいせい, sakuma.)",
+      "artist": "MAISONdes, Hoshimachi Suisei, sakuma.",
+      "has_synced": false,
+      "path": "select/02_なんもない_(feat._星街すいせい,_sakuma.)_MAISONdes,_Hoshimachi_Suisei,_sakuma..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "なんもない",
+      "artist": "MAISONdes feat. 星街すいせい, sakuma.",
+      "has_synced": true,
+      "path": "select/03_なんもない_MAISONdes_feat._星街すいせい,_sakuma..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "なんもない",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/04_なんもない_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "なんもない (feat. 星街すいせい & sakuma.)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/05_なんもない_(feat._星街すいせい_&_sakuma.)_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "なんもない",
+      "artist": "MAISONdes feat. 星街すいせい & sakuma.",
+      "has_synced": true,
+      "path": "select/06_なんもない_MAISONdes_feat._星街すいせい_&_sakuma..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "なんもない / Wannabe",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/07_なんもない___Wannabe_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "なんもない (feat. 星街すいせい, sakuma.)",
+      "artist": "MAISONdes (feat. 星街すいせい; sakuma.)",
+      "has_synced": true,
+      "path": "select/08_なんもない_(feat._星街すいせい,_sakuma.)_MAISONdes_(feat._星街すいせい;_sakuma.).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なんもない feat. 星街すいせい, sakuma.",
+      "artist": "MAISONdes",
+      "has_synced": false,
+      "path": "select/pl_01_なんもない_feat._星街すいせい,_sakuma._MAISONdes.txt"
+    }
+  ]
+}
